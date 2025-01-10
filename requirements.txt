@@ -1,0 +1,20 @@
+# HTTP and WebSocket clients
+aiohttp>=3.8.0
+websockets>=10.0
+
+# Proxy support
+aiohttp-socks>=0.7.1
+python-socks>=2.0.0
+https-proxy-agent>=0.2.0
+
+# Async support
+asyncio>=3.4.3
+
+# Date/Time handling
+pytz>=2022.1
+python-dateutil>=2.8.2
+
+# Utilities
+colorama>=0.4.4  # For Windows color support
+requests>=2.27.1  # For some HTTP requests
+python-dotenv>=0.19.0  # For environment variables

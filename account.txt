@@ -1,0 +1,2 @@
+token1:workerID1:id1:ownerAddress1
+token2:workerID2:id2:ownerAddress2
