@@ -1,6 +1,7 @@
 # HTTP and WebSocket clients
 aiohttp>=3.8.0
 websockets>=10.0
+brotli>=1.0.9  # For HTTP compression
 
 # Proxy support
 aiohttp-socks>=0.7.1
